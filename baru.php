@@ -1,3 +1,3 @@
 <?php
-echo "selamat bergabung dimawar hitam";
+echo "selamat datang dimawar hitam";
 ?>
